@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data Science/AI/ML
 - 🌱 I’m currently learning Data Science at Florida State University
 - 💞️ I’m looking to collaborate on Data Science related Projects which includes Data Model Training, Fitting, Analysis and Predictions
-- 🔗 How to reach me on LinkedIn - https://www.linkedin.com/in/nishad-nakhwa-323a1120b/
+- 🔗 How to reach me on LinkedIn - https://www.linkedin.com/in/nishad-nakhwa/
 - 📫 How to reach me Instagram - https://www.instagram.com/mi_hai_koli_08/
 
 <!---
