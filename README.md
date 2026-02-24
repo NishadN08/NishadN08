@@ -3,7 +3,7 @@
 - 🌱 Master's in Data Science at Florida State University
 - 🔬 Currently working as a AI Researcher at Department of Scientific Computing, Florida State University.
 - 💞️ I’m looking to collaborate on Data Science related Projects which includes Data Model Training, Fitting, Analysis and Predictions
-- 🔗 How to reach me on LinkedIn - https://www.linkedin.com/in/nishad-nakhwa/
+- 🔗 How to reach me on LinkedIn - https://www.linkedin.com/in/nishad-prashant-nakhwa08/
 - 📫 How to reach me Instagram - https://www.instagram.com/mi_hai_koli_08/
 
 <!---
